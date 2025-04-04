@@ -1,6 +1,4 @@
-
 Vaibhav Bansal
 Kunal Khushwaha
 1st time git user
 hello world(prakriya)
-
