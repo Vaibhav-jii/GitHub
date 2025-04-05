@@ -1,0 +1,2 @@
+hey this is a new filw which will be merged soon
+press I to get in insert mode then escape and :x to exit it
